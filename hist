@@ -1,0 +1,500 @@
+   74  vi hello.c
+   75  gcc hello.c
+   76  ./a.out
+   77  xcode-select --install
+   78   /opt/pgi/osx86-64/16.10/bin/pgfortran hello.f90 
+   79  ./a.out
+   80  rm a.out
+   81   /opt/pgi/osx86-64/16.10/bin/pgfortran hello.f90 
+   82  ./a.out
+   83  clang hello.c
+   84  which gcc
+   85  ls /usr/bin/gcc
+   86  gcc -V
+   87  gcc -v
+   88  keys
+   89  ssh mio001
+   90  ssh -Y mio001
+   91  ssh -Y mio001
+   92  ssh mio001
+   93  keys
+   94  ssh mio001
+   95  cd Downloads
+   96  ls
+   97  scp pgilinux-2016-1610-ppc64le.tar tkaiser@mio001:/u/pa/ru/tkaiser/scratch
+   98  history
+   99  ssh mio001
+  100  ls
+  101  ls
+  102  module avail
+  103  ssh mio001
+  104  ls -a
+  105  ls -al | grep ssh
+  106  cd .ssh
+  107  ls -lt
+  108  cd .ssh
+  109  cat config 
+  110  scpath config
+  111  ~/bin/scpath
+  112  ~/bin/scpath config
+  113  ssh config quadcore.local:/Users/tkaiser/.ssh/config.work
+  114  ssh config 192.168.1.45:/Users/tkaiser/.ssh/config.work
+  115  ssh config tkaiser@192.168.1.45:/Users/tkaiser/.ssh/config.work
+  116  ssh 192.168.2.1
+  117  ssh 192.168.1.45
+  118  ssh config tkaiser@192.168.1.45:~/config.lap
+  119  scp config tkaiser@192.168.1.45:~/config.lap
+  120  exit
+  121  keys
+  122  ssh -Y mio001
+  123  ssh mio0
+  124  ssh golden
+  125  ssh -Y golden
+  126  ssh mio0
+  127  ssh -Y mio0
+  128  exit
+  129  keys
+  130  ssh mio
+  131  ssh mio.mines.edu
+  132  ssh mio.mines.edu
+  133  ssh mio.mines.edu
+  134  ssh mio
+  135  ssh mio.mines.edu
+  136  ssh mio.mines.edu
+  137  ssh mio
+  138  ssh mio.mines.edu
+  139  ssh mio
+  140  ssh mio.mines.edu
+  141  keys
+  142  ssh mio
+  143  ssh mio.mines.edu
+  144  keys
+  145  ssh mio
+  146  ssh mio.mines.edu
+  147  :q
+  148  ssh mio
+  149  ssh mio.mines.edu
+  150  keys
+  151  ssh mio
+  152  ssh mio.mines.edu
+  153  keys
+  154  ssh mio
+  155  ssh mio.mines.edu
+  156  scp tkaiser@mio001:/u/pa/ru/tkaiser/bonkit
+  157  scp tkaiser@mio001:/u/pa/ru/tkaiser/bonkit .
+  158  bbedit bonkit
+  159  gedit bonkit
+  160  keys
+  161  ssh energy
+  162  scp /Users/tkaiser/Desktop/mc_mlmc.tar.gz tkaiser@energy:/u/pa/ru/tkaiser/scratch/reyes
+  163  keys
+  164  ssh mio
+  165  ssh mio.mines.edu
+  166  KEYS
+  167  keys
+  168  cd .ssh
+  169  cat config 
+  170  ssh mio001
+  171  ssh -Y mio001
+  172  cd .ssh
+  173  pwd
+  174  bbedit config
+  175  bbedit config
+  176  ssh osage
+  177  ssh osage.mines.edu
+  178  cd .ssh
+  179  bbedit config
+  180  ssh osage.mines.edu
+  181  ssh osgae.mines.edu
+  182  ssh osage.mines.edu
+  183  man -k compile
+  184  keys
+  185  ssh mio
+  186  ssh mio001
+  187  scp tkaiser@mio001:/opt/utility/1031_150349mio001.tar .
+  188  scp tkaiser@mio001:/opt/utility/1031_150354mio001.tar .
+  189  scp tkaiser@mio001:/opt/utility/0702_111913mio001.tgz .
+  190  ssh zbrunson@mio.mines.edu
+  191  ls
+  192  ls -lt
+  193  cd Downloads/
+  194  ls
+  195  cd ..
+  196  ls
+  197  ls | file
+  198  file index.html 
+  199  tail
+  200  tail index.html
+  201  tail index.html | wc
+  202  man wc
+  203  ls
+  204  cat hello.f90
+  205  more hello.c
+  206  cd Sites
+  207  ls
+  208  cd food
+  209  ls
+  210  ssh mio
+  211  ssh mio.mines.edu
+  212  crlf
+  213  ssh mrobbert@aun001
+  214  exit
+  215  ssh aun
+  216  ssh aun.mines.edu
+  217  ssh golden
+  218  keys
+  219  ssh petra
+  220  ssh petra.mines.edu
+  221  keys
+  222  ssh mio
+  223  ssh mio.mines.edu
+  224  ssh mio
+  225  ssh mio.mines.edu
+  226  scp /Users/tkaiser/Library/Containers/com.apple.mail/Data/Library/Mail\ Downloads/03D96621-EBA8-4F22-8ECE-095BEA572BD8/ppcQEdata.tgz tkaiser@mio001:/u/pa/ru/tkaiser/scratch/qe
+  227  keys
+  228  ssh mio
+  229  ssh mio.mines.edu
+  230  ssh mc2
+  231  scp /Users/tkaiser/Desktop/cpuQEdata\ copy.tgz tkaiser@mio001:/u/pa/ru/tkaiser/scratch/qe/x86
+  232  ssh mio
+  233  ssh mio.mines.edu
+  234  ssh mio001
+  235  ls
+  236  ssh mio001
+  237  keys
+  238  ssh mio
+  239  ssh mio001
+  240  ssh mio
+  241  ssh mio001
+  242  ssh mio001
+  243  ssh mio001
+  244  ssh mio
+  245  ssh mio.mines.edu
+  246  keys
+  247  ssh mio.mines.edu
+  248  python
+  249  ssh mio
+  250  ssh mio001
+  251  keys
+  252  ssh mio001
+  253  ssh mio001
+  254  keys
+  255  ssh mio
+  256  ssh mio.mines.edu
+  257  ssh osage
+  258  ssh osage
+  259  ssh osage
+  260  keys
+  261  ssh osage
+  262  ssh osage.mines.edu
+  263  cd Desktop/
+  264  ls
+  265  cd RASPA2-2.0.3
+  266  ls
+  267  mkdir m4
+  268  aclocal
+  269  scp /Users/tkaiser/Desktop/RASPA2-2.0.3.tar.gz tkaiser@mio001:/u/pa/ru/tkaiser/scratch/raspa
+  270  ssh mio001
+  271  keys
+  272  ssh mio
+  273  ssh mio.mines.edu
+  274   
+  275  ssh mio
+  276  ssh mio001
+  277  keys
+  278  ssh mio001
+  279  keys
+  280  exit
+  281  gcc
+  282  gfortran
+  283  which gfortran
+  284  ls *f90
+  285  gfortran hello.f90 
+  286  ./a.out
+  287  cat hello.f90 
+  288  ssh mio.mines.edu
+  289  Ms_Ucsd_87
+  290  keys
+  291  ssh aun
+  292  ssh aun.mines.edu
+  293  ssh bluem
+  294  /anaconda/bin/jupyter_mac.command ; exit;
+  295  keys
+  296  ssh mio001
+  297  ssh mio.mines.edu
+  298  cd .ssh
+  299  ls
+  300  ls back
+  301  ls -lt
+  302  cat back
+  303  cp back config
+  304  ssh mio001
+  305  ping ozark.mines.edu
+  306  ping osage.mines.edu
+  307  ls
+  308  ls -lt
+  309  ssh mio001
+  310  ssh -vvvvv mio001
+  311  bbedit config
+  312  ls
+  313  ssh -vvvvv mio001
+  314  vi authorized_keys 
+  315  ssh energy
+  316  exit
+  317  ssh mio001
+  318  exit
+  319  ssh mio001
+  320  ssh mio
+  321  ssh mio
+  322  ssh mio001
+  323  ssh energy
+  324  ssh golden
+  325  cd .ssh
+  326  ls
+  327  cat forlab.p
+  328  cat forlap.pub 
+  329  ssh mio
+  330  ssh mio
+  331  python
+  332  ssh imagine
+  333  ssh-keygen -f $HOME/.ssh/forlap
+  334  ls
+  335  cd .ssh
+  336  ls *pub
+  337  cat forlap.pub | ssh imagine.mines.edu "cat >> ~/.ssh/authorized_keys"
+  338  ssh osage
+  339  ssh step1
+  340  ssh golden
+  341  ls
+  342  cat forlap.pub 
+  343  ssh golden
+  344  ssh step2
+  345  ssh golden
+  346  ssh golden
+  347  ssh golden
+  348  ssh golden
+  349  ssh mio
+  350  ssh golden
+  351  ssh mio001
+  352  ssh -vvvv mio001
+  353  python
+  354  ipython
+  355  python
+  356  alias
+  357  ssh-add -D
+  358  ssh golden
+  359  ls -a
+  360  vi .bash_profile
+  361  keys
+  362  ssh golden
+  363  ssh imagine
+  364  keys
+  365  ssh -vvvv mio001
+  366  cd .ssh
+  367  ls
+  368  cat forlap.pub 
+  369  ssh ill
+  370  ssh ill
+  371  ssh mio
+  372  ssh mio
+  373  ssh imagine.mines.edu
+  374  ssh imagine
+  375  ssh energy
+  376  ssh mc2
+  377  ssh mio001
+  378  ssh mio
+  379  ssh mio001
+  380  keys
+  381  ssh mio001
+  382  ssh imagine
+  383  ssh mc2
+  384  ssh -vvvv mc2
+  385  ssh golden
+  386  ssh step1
+  387  ssh imagine.mines.edu
+  388  ssh imagine.mines.edu
+  389  man ssh
+  390  ssh -F config.xxx imagine.mines.edu
+  391  cd .ssh
+  392  ssh -F config.xxx imagine.mines.edu
+  393  ssh imagine
+  394  ssh step1
+  395  alias
+  396  killkeys
+  397  ssh step1
+  398  ssh imagine.mines.edu
+  399  cd .ssh
+  400  ls -lt
+  401  mv config config.xxx
+  402  ssh imagine.mines.edu
+  403  ls -lt
+  404  mv config.xxx config
+  405  keys
+  406  ssh mc2
+  407  ssh golden
+  408  ssh mio001
+  409  killkeys
+  410  keys
+  411  cd .ssh
+  412  bbedit config
+  413  ssh mio
+  414  ssh mc2
+  415  keys
+  416  ssh mc2
+  417  ssh golden
+  418  ssh mc2
+  419  ssh -vvvvvv bluem
+  420  ssh 138.67.132.196
+  421  ssh 138.67.132.196
+  422  ssh 138.67.132.196
+  423  ssh mc2
+  424  ssh bluem
+  425  ssh imagine
+  426  ssh imagine.mines.edu
+  427  cat .ssh/config
+  428  ssh 138.67.132.196
+  429  killkeys
+  430  ssh 138.67.132.196
+  431  ssh mc2
+  432  ssh mio001
+  433  ssh aun
+  434  ssh golden
+  435  ssh golden
+  436  ssh mio
+  437  cd .ssh
+  438  ls
+  439  cat forlap.pub 
+  440  ls
+  441  bbedit config
+  442  ssh osage
+  443  keys
+  444  ssh mio001
+  445  ssh mio001
+  446  ssh osage
+  447  ssh mio001
+  448  ssh mio001
+  449  scp tkaiser@osage:/Users/tkaiser/e3d/work/e3druns/0726215457.000/slice/0816_135508osage.tgz .
+  450  ls -lt | head
+  451  mkdir viz
+  452  cd viz
+  453  tar -xzf ../0816_135508osage.tgz 
+  454  ls
+  455  ls
+  456  wget http://hpc.mines.edu/golden/how/interp.py
+  457  ls bin
+  458  scp tkaiser@osage.mines.edu:/opt/local/bin/wget .
+  459  scp tkaiser@osage:/opt/local/bin/wget .
+  460  ./wget http://hpc.mines.edu/golden/how/interp.py
+  461  chmod 755 interp.py 
+  462  ./interp.py vertical1.5990.flt.z.d
+  463  open *png
+  464  bbedit interp.py 
+  465  bbedit interp.py 
+  466  ./interp.py vertical1.5990.flt.z.d
+  467  ./interp.py vertical1.5990.flt.z.d
+  468  ./interp.py vertical1.5990.flt.z.d
+  469  python
+  470  python /Users/tkaiser/Desktop/custom_cmap.py 
+  471  python
+  472  python /Users/tkaiser/Desktop/custom_cmap.py 
+  473  python /Users/tkaiser/Desktop/custom_cmap.py 
+  474  python /Users/tkaiser/Desktop/custom_cmap.py 
+  475  python
+  476  python /Users/tkaiser/Desktop/custom_cmap.py 
+  477  python /Users/tkaiser/Desktop/custom_cmap.py 
+  478  python /Users/tkaiser/Desktop/custom_cmap.py 
+  479  python /Users/tkaiser/Desktop/custom_cmap.py 
+  480  export CMAP=Mine
+  481  ./interp.py vertical1.5990.flt.z.d
+  482  ./interp.py vertical1.5990.flt.z.d
+  483  ls *png
+  484  open *png
+  485  ls
+  486  mv wget ~/bin
+  487  rm *png
+  488  files=`ls v*d`
+  489  for f in $files ; do echo $f; ./interp.py $f; done
+  490  open vertical1.6000.flt.z.d.*
+  491  open vertical1.3000.flt.z.d.*
+  492  open vertical1.2000.flt.z.d.*
+  493  open vertical1.1000.flt.z.d.*
+  494  open vertical1.2500.flt.z.d.*
+  495  ls *py
+  496  mv *py ~/Desktop/
+  497  keys
+  498  ssh imagine
+  499  ssh mio001
+  500  nano
+  501  git config --global user.name "Tim Kaiser"
+  502  git config --global user.email "tkaiser@mines.edu"
+  503  git config --global color.ui "auto"
+  504  bbedit
+  505  bbedit
+  506  bbedit
+  507  ls
+  508  bbedit index.html 
+  509  git config --global core.editor "/usr/local/bin/bbedit"
+  510  pwd
+  511  cd Desktop/
+  512  mkdir planets
+  513  cd planets/
+  514  ls
+  515  get init
+  516  git init
+  517  open .
+  518  git status
+  519  bbedit mars.txt
+  520  ls
+  521  git status
+  522  git add mars.txt 
+  523  git status
+  524  git commit -m "Start notes on Mars as a base"
+  525  git status
+  526  ls
+  527  git log
+  528  ls
+  529  ls -la .git
+  530  bbedit mars.txt 
+  531  git status
+  532  git diff
+  533  git add mars.txt 
+  534  commit -m "Add concerns"
+  535  git commit -m "Add concerns"
+  536  bbedit mars.txt 
+  537  git add mars.txt 
+  538  git commit -m "Mummy"
+  539  git status
+  540  bbedit mars.txt 
+  541  git status
+  542  git diff
+  543  git log
+  544  git diff HEAD mars.txt
+  545  git diff HEAD mars.txt
+  546  git diff HEAD~1 mars.txt
+  547  git log
+  548  git diff 792b2bbc46cdc8beaaea30b802b14b4ddcb770a4
+  549  git checkout HEAD mars.txt 
+  550  git status
+  551  cat mars.txt 
+  552  git checkout HEAD mars.txt 
+  553  cat mars.txt 
+  554  bbedit mars.txt 
+  555  git log
+  556  git checkout 792b2bbc46cdc8beaaea30b802b14b4ddcb770a4
+  557  cat mars.txt 
+  558  git log
+  559  git checkout 2d289cd5da7e67a96e990e25897428a040bb295d
+  560  git checkout
+  561  cat mars.txt 
+  562  git checkout HEAD
+  563  cat mars.txt 
+  564  git log
+  565  git chekcout 792b2bbc46cdc8beaaea30b802b14b4ddcb770a4
+  566  git checkout 792b2bbc46cdc8beaaea30b802b14b4ddcb770a4
+  567  git push 
+  568  git push planets
+  569  git push
+  570  ls
+  571  git remote add origin https://github.com/tkaiserphd/planets.git
+  572  git push -u origin master
+  573  history > hist
